@@ -3,5 +3,5 @@ APIcast configuration generator
 
 # Run
 ```
-python config_processor.py --help
+python config_generator.py --help
 ```
